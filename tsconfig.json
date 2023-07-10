@@ -9,7 +9,7 @@
     "jsx": "react",
     "moduleResolution": "node"
   },
-  "include": ["src", "jest-setup.js"],
+  "include": ["src"],
   "ts-node": {
     "compilerOptions": {
       "module": "CommonJS"
