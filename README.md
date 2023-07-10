@@ -24,13 +24,13 @@
 
 ## Выполнение тестов
 
-Запустите playwright ui
+Запустите `Playwright UI`
 
 ```bash
 npm run test:e2e:gui
 ```
 
-Запустите с BUG_ID от 1 до 10
+Запустите с `BUG_ID` от 1 до 10
 
 ```bash
 # Если терминал bash или zsh
