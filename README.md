@@ -33,7 +33,7 @@ npm run test:e2e:gui
 Запустите с `BUG_ID` от 1 до 10
 
 ```bash
-# Если терминал bash или zsh
+# Если терминал bash
 BUG_ID=1 npm run start
 
 # Если терминал от windows
